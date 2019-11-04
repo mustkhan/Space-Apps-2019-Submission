@@ -1,6 +1,6 @@
 # Space-Apps-2019-Finalist-Submission: AstroTech
 
-## What was the NEOSSat Challenge?
+## What is the NEOSSat Challenge?
 
 The NEOSSat is a dual-mission microsatellite designed to detect potentially hazardous Earth-orbit-crossing asteroids and track objects that reside in deep space. At Space Apps 2019, a competition hosted by NASA and the Canadian Space Agency (CSA) we took on the NEOSSat challenge. More info regarding the challenge can be found here: http://www.asc-csa.gc.ca/eng/events/2019/space-apps-2019.asp#challenge-3.
 
