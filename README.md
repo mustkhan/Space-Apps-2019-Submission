@@ -18,7 +18,7 @@ Additionally, NEOSSAT's raw grayscale images are used to generate a series of fa
 
 ## Where can you find our work?
 
-The final video submission for naitonals: https://www.youtube.com/watch?v=dkfggBqCmcA&feature=youtu.be.
+The final video submission for national judging: https://www.youtube.com/watch?v=dkfggBqCmcA&feature=youtu.be.
 
 You can visit the website for AstroTech here: https://astrotech.netlify.com
 
