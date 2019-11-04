@@ -20,6 +20,10 @@ Additionally, NEOSSAT's raw grayscale images are used to generate a series of fa
 
 The final video submission for national judging: https://www.youtube.com/watch?v=dkfggBqCmcA&feature=youtu.be.
 
-You can visit the website for AstroTech here: https://astrotech.netlify.com
+You can visit the website for AstroTech here: https://astrotech.netlify.com.
 
-You can find our code and links to other details about our submission here: https://github.com/MustafaKhan670093/Space-Apps-2019-Submission
+You can find our code and links to other details about our submission here: https://github.com/MustafaKhan670093/Space-Apps-2019-Submission.
+
+The google slides used in our video can be found here: https://docs.google.com/presentation/d/1NdyAyRt2zKM-qh46nu629F2MSpAi3nr3nW546mrVuOc/edit?usp=sharing.
+
+This is a link to the Google Collab shown in the video: https://colab.research.google.com/drive/1lhj0k4c-Yar8UCknNvOu2pngMd6fkbTg.
