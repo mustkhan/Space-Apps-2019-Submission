@@ -39,7 +39,7 @@ img1 = cv.blur(src, (3, 3))
 img2 = cv.cvtColor(src2, cv.COLOR_BGR2GRAY)
 img2 = cv.blur(src2, (3, 3))
 
-#participant or viewer, food man?
+#participant or viewer
 
 thresh = 100  # initial threshold
 
