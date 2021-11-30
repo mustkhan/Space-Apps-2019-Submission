@@ -18,7 +18,7 @@ Additionally, NEOSSAT's raw grayscale images are used to generate a series of fa
 
 ## Where can you find our work?
 
-You can find a writeup of the competition and our work here: https://mustafarehanahmadkhan.com/astrotech
+You can find a writeup of the competition and our work here: https://medium.com/@mustafa.khan670093/astrotech-developing-asteroid-detection-technology-for-the-csa-f24c1ba23eef
 
 The final video submission for national judging: https://www.youtube.com/watch?v=dkfggBqCmcA&feature=youtu.be.
 
